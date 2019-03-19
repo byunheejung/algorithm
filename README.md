@@ -8,3 +8,8 @@
 6. fizzBuzz
 7. hammingDistance
 8. isAnagram
+9. longestWord
+
+---
+
+1. binaryGap
