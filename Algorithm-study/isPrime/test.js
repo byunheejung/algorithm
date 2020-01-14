@@ -1,4 +1,4 @@
-const longestWord = require('./index')
+const isPrime = require('./index')
 
 test('isPrime', () => {
   expect(typeof isPrime).toEqual('function');
