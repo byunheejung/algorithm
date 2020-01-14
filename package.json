@@ -1,7 +1,7 @@
 {
   "name": "algorithm",
   "version": "1.0.0",
-  "description": "Demo repository for JS Algorithms Course",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "jest"
